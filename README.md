@@ -6,7 +6,7 @@ E-Commerce Website:
 
 ## Project Description
 
-This is a modern E-Commerce website created using React. It is designed for users to browse available items, add them to their cart, and purchase the items.
+This is a modern E-Commerce website created using React.js, Commerce.js, and Stripe. It is designed for users to browse available items, add them to their cart, and purchase the items.
 
 ## Code Snippet
 
@@ -29,7 +29,6 @@ Mobile: [(https://imgur.com/oPpuB8W)](https://imgur.com/oPpuB8W)
 | 4 | React Products Details component | 3 hr | 7
 | 5 | React Product component | 3 hr | 7
 | 6 | React MVP styling | 7 hr | 6
-| 7 | React Dashboard component | 7 hr | 4
 
 ## Code Resources
 Material UI

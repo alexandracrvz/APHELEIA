@@ -1,12 +1,12 @@
-# E-Commerce
+# APHELEIA
 
 ## Project Links
 
-E-Commerce Website:
+APHELEIA Website:
 
 ## Project Description
 
-This is a modern E-Commerce website created using React.js, Commerce.js, and Stripe. It is designed for users to browse available items, add them to their cart, and purchase the items.
+APHELEIA a modern E-Commerce website created using React.js, Commerce.js, and Stripe. It is designed for users to browse available items, add them to their cart, and purchase the items.
 
 ## Code Snippet
 

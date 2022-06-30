@@ -18,7 +18,7 @@ const handleAddToCart = async (productId, quantity) => {
     }
 ```
 
-This function adds the product to the cart. It is an asyncronis function, and it accepts two different parameters. The handleAddToCart is expecting two parameters then it uses these parameters to hand over to the API to then add the product to the cart. "const" is getting some type of response, in this case the response is "item", and then tells "commerce" to add the product, and quantity of the product to the cart.
+This function adds the product to the cart. It is an asynchronous function, and it accepts two different parameters. The handleAddToCart is expecting two parameters then it uses these parameters to hand over to the API to then add the product to the cart. "const" is getting some type of response, in this case the response is "item", and then tells "commerce" to add the product, and quantity of the product to the cart.
 
 ## Wireframes
 

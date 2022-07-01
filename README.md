@@ -37,6 +37,7 @@ Mobile: [(https://imgur.com/oPpuB8W)](https://imgur.com/oPpuB8W)
 | 6 | React MVP styling | 7 hr | 6
 | 7 | Set up Commerce.js | 1 hr | 9
 | 8 | Add To Cart functionality | 2 hr | 9
+| 9 | Create Cart Layout | 2 hr | 9
 
 ## Code Resources
 Material UI

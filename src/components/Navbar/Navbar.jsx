@@ -20,11 +20,13 @@ const Navbar = ({ totalItems }) => {
                 </Link>
                 <div className={classes.grow} />
                 <div className={classes.button}>
+                <Link to="/cart" style={{ textDecoration: 'none', color: '#000' }}>
                     <IconButton aria-label="Show Cart Items" color="inherit">
                         <Badge badgeContent={totalItems} color="secondary">
                             <ShoppingCart />
                         </Badge>
                     </IconButton>
+                    </Link>
                 </div>
             </Toolbar>
         </AppBar>

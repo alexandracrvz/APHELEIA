@@ -38,6 +38,7 @@ Mobile: [(https://imgur.com/oPpuB8W)](https://imgur.com/oPpuB8W)
 | 7 | Set up Commerce.js | 1 hr | 9
 | 8 | Add To Cart functionality | 2 hr | 9
 | 9 | Create Cart Layout | 2 hr | 9
+| 10 | Button Functionality | 4 hr | 9
 
 ## Code Resources
 Material UI

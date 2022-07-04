@@ -40,10 +40,11 @@ Mobile: [(https://imgur.com/oPpuB8W)](https://imgur.com/oPpuB8W)
 | 9 | Create Cart Layout | 2 hr | 9
 | 10 | Button Functionality | 4 hr | 9
 
-## Code Resources
+## Code & Other Resources
 Material UI
 Stack Overflow
 JavaScript Mastery
+Mock Products: Rouje
 
 
 

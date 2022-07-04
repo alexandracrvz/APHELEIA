@@ -2,11 +2,11 @@
 
 ## Project Links
 
-Beta 1 APHELEIA Website: https://apheleiashop.netlify.app
-Beta 2: Coming Soon!
+Beta 1 APHELEIA Website: apheleiashop.netlify.app
+
 ## Project Description
 
-APHELEIA a modern E-Commerce website created using React.js, Commerce.js, and Stripe. It is designed for users to browse available items, add them to their cart, and purchase the items.
+APHELEIA a modern E-Commerce website created using React.js, and Commerce.js. It is designed for users to browse available items, add them to their cart. Beta 2 will allow users to purchase the items in their cart.
 
 ## Code Snippet
 

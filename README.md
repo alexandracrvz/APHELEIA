@@ -2,7 +2,7 @@
 
 ## Project Links
 
-Beta 1 APHELEIA Website: apheleiashop.netlify.app
+Beta 1 APHELEIA Website: http://apheleiashop.netlify.app
 
 ## Project Description
 

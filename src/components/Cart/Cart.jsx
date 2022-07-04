@@ -1,5 +1,5 @@
-import React from 'react'
-import { Container, Typography, Button, Grid } from '@material-ui/core';
+import React from 'react';
+import { Container, Typography, Button, Grid, Link } from '@material-ui/core';
 
 import useStyles from './styles';
 import CartItem from './CartItem/CartItem';
@@ -25,7 +25,10 @@ const Cart = ({ cart, handleUpdateCartQty, handleRemoveFromCart, handleEmptyCart
                 <Typography variant="h4">Subtotal: {cart.subtotal.formatted_with_symbol}</Typography>
                 <div>
                     <Button className={classes.emptyButton} size="large" type="button" variant="contained" color="secondary" onClick={handleEmptyCart}>Empty Cart</Button>
-                    <Button className={classes.checkout} size="large" type="button" variant="contained" color="primary">Checkout</Button>
+                    
+                    <Link to="/checkout">
+                    <Button to="/checkout" className={classes.checkout} size="large" type="button" variant="contained" color="primary">Checkout</Button>
+                    </Link>
                 </div>
             </div>
         </>

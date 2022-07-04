@@ -3,6 +3,8 @@ import { commerce } from './lib/commerce';
 import Products from './components/Products/Products';
 import Navbar from './components/Navbar/Navbar';
 import Cart from './components/Cart/Cart';
+import Checkout from './components/CheckoutForm/Checkout/Checkout';
+
 import { Routes, Route } from 'react-router-dom';
 
 const App = () => {
@@ -56,7 +58,7 @@ const App = () => {
         <Routes>
                 <Route path="/" element={<Products products={products} onAddToCart={handleAddToCart} />} />
                 <Route path="/cart" element={<Cart cart={cart} handleUpdateCartQty={handleUpdateCartQty} handleRemoveFromCart={handleRemoveFromCart} handleEmptyCart={handleEmptyCart} />} />
-                <Route path="/checkout" element="" />
+                <Route path="/checkout" element={<Checkout />} />
         </Routes>
         </div>
     )
